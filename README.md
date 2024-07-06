@@ -27,8 +27,6 @@ Additionally, you need to have:
 Python 3.12 or later.
 ChromeDriver installed for Selenium to work correctly.
 
-## Requirements
-
 To run this notebook, you need to install the following libraries:
 
 ```bash
@@ -42,6 +40,7 @@ pip install emoji
 pip install langid
 pip install matplotlib
 pip install scikit-learn 
+
 
 
 
